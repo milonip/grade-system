@@ -2,6 +2,9 @@
 
 A simple C program to manage student grades and records with basic CRUD operations.
 
+## Visuals
+<img width="776" alt="Screenshot 2025-03-16 at 9 33 10 PM" src="https://github.com/user-attachments/assets/b84fd6da-3338-41d9-a9a3-9a4f91114428" />
+
 ## Features
 
 - Add new students with their details:
