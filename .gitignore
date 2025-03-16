@@ -1,0 +1,4 @@
+student_system
+*.dat
+*.o
+.DS_Store
